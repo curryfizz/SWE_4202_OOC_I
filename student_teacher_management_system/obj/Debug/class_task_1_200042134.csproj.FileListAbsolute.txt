@@ -1,0 +1,11 @@
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\bin\Debug\class_task_1_200042134.exe.config
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\bin\Debug\class_task_1_200042134.exe
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\bin\Debug\class_task_1_200042134.pdb
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.csproj.AssemblyReference.cache
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.Form1.resources
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.Properties.Resources.resources
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.csproj.GenerateResource.cache
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.csproj.CoreCompileInputs.cache
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.exe
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\class_task_1_200042134\obj\Debug\class_task_1_200042134.pdb
