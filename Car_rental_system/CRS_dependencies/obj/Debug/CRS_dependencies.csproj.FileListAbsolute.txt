@@ -1,0 +1,12 @@
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\CRS_dependencies\bin\Debug\CRS_dependencies.dll
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\CRS_dependencies\bin\Debug\CRS_dependencies.pdb
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\CRS_dependencies\obj\Debug\CRS_dependencies.csproj.AssemblyReference.cache
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\CRS_dependencies\obj\Debug\CRS_dependencies.csproj.CoreCompileInputs.cache
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\CRS_dependencies\obj\Debug\CRS_dependencies.dll
+C:\Users\Nawsheen Mehereen.NAWSHEEN-PC\source\repos\CRS_dependencies\obj\Debug\CRS_dependencies.pdb
+D:\Documents\SWE_4202_OOC_I\Car_rental_system\CRS_dependencies\bin\Debug\CRS_dependencies.dll
+D:\Documents\SWE_4202_OOC_I\Car_rental_system\CRS_dependencies\bin\Debug\CRS_dependencies.pdb
+D:\Documents\SWE_4202_OOC_I\Car_rental_system\CRS_dependencies\obj\Debug\CRS_dependencies.csproj.AssemblyReference.cache
+D:\Documents\SWE_4202_OOC_I\Car_rental_system\CRS_dependencies\obj\Debug\CRS_dependencies.csproj.CoreCompileInputs.cache
+D:\Documents\SWE_4202_OOC_I\Car_rental_system\CRS_dependencies\obj\Debug\CRS_dependencies.dll
+D:\Documents\SWE_4202_OOC_I\Car_rental_system\CRS_dependencies\obj\Debug\CRS_dependencies.pdb
