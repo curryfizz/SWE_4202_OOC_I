@@ -1,0 +1,11 @@
+D:\Documents\IUT_SWE_4201\room_rental\bin\Debug\room_rental.exe.config
+D:\Documents\IUT_SWE_4201\room_rental\bin\Debug\room_rental.exe
+D:\Documents\IUT_SWE_4201\room_rental\bin\Debug\room_rental.pdb
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.csproj.AssemblyReference.cache
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.Properties.Resources.resources
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.csproj.GenerateResource.cache
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.csproj.CoreCompileInputs.cache
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.exe
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.pdb
+D:\Documents\IUT_SWE_4201\room_rental\obj\Debug\room_rental.room_rentals_frm.resources
