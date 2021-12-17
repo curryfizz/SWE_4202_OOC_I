@@ -1,0 +1,11 @@
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\bin\Debug\pharmacy_managementsystem.exe.config
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\bin\Debug\pharmacy_managementsystem.exe
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\bin\Debug\pharmacy_managementsystem.pdb
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.csproj.AssemblyReference.cache
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.csproj.SuggestedBindingRedirects.cache
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.Pharmacy_management_system.resources
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.Properties.Resources.resources
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.csproj.GenerateResource.cache
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.csproj.CoreCompileInputs.cache
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.exe
+D:\Documents\IUT_SWE_4201\pharmacy_managementsystem\obj\Debug\pharmacy_managementsystem.pdb
