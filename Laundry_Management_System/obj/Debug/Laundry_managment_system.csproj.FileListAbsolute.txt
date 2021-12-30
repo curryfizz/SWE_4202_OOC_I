@@ -1,0 +1,11 @@
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\Laundry_managment_system.csproj.AssemblyReference.cache
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\Laundry_managment_system.csproj.SuggestedBindingRedirects.cache
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LMS.resources
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\Laundry_managment_system.csproj.GenerateResource.cache
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\Laundry_managment_system.csproj.CoreCompileInputs.cache
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Documents\SWE_4202_OOC_I\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
